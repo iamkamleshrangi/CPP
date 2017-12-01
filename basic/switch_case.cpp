@@ -36,7 +36,7 @@ int main()
           break;
 
         case 4:
-          cout << "Multiplication fo number is : "<< num1 / num2 <<endl;
+          cout << "Division fo number is : "<< num1 / num2 <<endl;
           break;
 
         case 5:
